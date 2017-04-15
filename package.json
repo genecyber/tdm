@@ -26,5 +26,6 @@
     },
     "scripts": {
         "test": "mocha tests/ -R spec"
-    }
+    },
+    "main": "./lib/twitter.js"
 }
